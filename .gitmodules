@@ -4,3 +4,33 @@
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/NERDCommenter"]
+	path = bundle/NERDCommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "bundle/Tagbar"]
+	path = bundle/Tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "bundle/easymotion"]
+	path = bundle/easymotion
+	url = https://github.com/Lokaltog/vim-easymotion
+[submodule "bundle/Tabular"]
+	path = bundle/Tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "bundle/ycm"]
+	path = bundle/ycm
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = https://github.com/honza/vim-snippets
